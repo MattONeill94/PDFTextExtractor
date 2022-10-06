@@ -1,0 +1,5 @@
+*.ts
+!*.d.ts
+Makefile
+tsconfig.json
+*.afm
